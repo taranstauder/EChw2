@@ -1,15 +1,15 @@
 <?php
 	switch ($_SERVER["SCRIPT_NAME"]) {
 		case "/php-template/about.php":
-			$CURRENT_PAGE = "About"; 
-			$PAGE_TITLE = "About Us";
+			$CURRENT_PAGE = "Page 2"; 
+			$PAGE_TITLE = "Page 2";
 			break;
 		case "/php-template/contact.php":
-			$CURRENT_PAGE = "Contact"; 
-			$PAGE_TITLE = "Contact Us";
+			$CURRENT_PAGE = "Page 3"; 
+			$PAGE_TITLE = "Page 3";
 			break;
 		default:
 			$CURRENT_PAGE = "Index";
-			$PAGE_TITLE = "Welcome to my homepage!";
+			$PAGE_TITLE = "Homework 2";
 	}
 ?>
