@@ -2,11 +2,11 @@
 	switch ($_SERVER["SCRIPT_NAME"]) {
 		case "/page2.php":
 			$CURRENT_PAGE = "Page 2"; 
-			$PAGE_TITLE = "Page 2";
+			$PAGE_TITLE = "Homework 2";
 			break;
-		case "/php-template/contact.php":
+		case "/page3.php":
 			$CURRENT_PAGE = "Page 3"; 
-			$PAGE_TITLE = "Page 3";
+			$PAGE_TITLE = "Homework 2";
 			break;
 		default:
 			$CURRENT_PAGE = "Index";
