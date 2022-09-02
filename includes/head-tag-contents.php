@@ -14,7 +14,7 @@
 		font-size: 14px;
 		text-align: center;
 	}
-	#nav-link.active {
-		background-color: red;
+	body {
+		background-color: red; 
 	}
 </style>
