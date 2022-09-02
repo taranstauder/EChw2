@@ -11,24 +11,13 @@
 
 <div class="container" id="main-content">
 	<h2>This is my Homework 2 site!</h2>
-	<p>There is some filler text below. I might just put some song lyrics.</p>
+	<p>There is some filler text below. I might just put some song lyrics. Actually, that might flag on turn it in, so I'll put nonsense.</p>
 
 	<p>
-		Boomer Sooner, Boomer Sooner 
-Boomer Sooner, Boomer Sooner 
-Boomer Sooner, Boomer Sooner 
-Boomer Sooner, OK U! 
- 
-Oklahoma, Oklahoma 
-Oklahoma, Oklahoma 
-Oklahoma, Oklahoma 
-Oklahoma, OK U! 
+		Tulsa, Houston, Dogs, Water, Air, Plane
 	</p>
 	<p>
-		I'm a Sooner born and Sooner bred 
-and when I die, I'll be Sooner dead 
-Rah Oklahoma, Rah Oklahoma 
-Rah Oklahoma, OK U! 
+		Word, Number, Apple, Microsoft, Bean bag
 	</p>
 </div>
 
