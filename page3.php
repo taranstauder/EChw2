@@ -10,15 +10,11 @@
 <?php include("includes/navigation.php");?>
 
 <div class="container" id="main-content">
-	<h2>This is my Homework 2 site!</h2>
-	<p>There is some filler text below. I might just put some song lyrics.</p>
-
-	<p>
-		texas sucks
-	</p>
-	<p>
-		booo lincoln
-	</p>
+	<h2>Get response</h2>
+    Welcome <?php echo $_GET["name"]; ?><br>
+Your email address is: <?php echo $_GET["email"]; ?>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+  
 </div>
 
 <?php include("includes/footer.php");?>
