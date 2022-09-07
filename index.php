@@ -12,13 +12,19 @@
 <div class="container" id="main-content">
 	    
 	<h2>This is my Homework 2 site!</h2>
-	<p>Please fill out the below form.</p>
+	<p>Please fill out the below form to test using POST.</p>
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
 </form>
 
+	<p>Please fill out the below form to test using GET.</p>
+<form action="handleget.php" method="get">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
+</form>
 </div>
 
 <?php include("includes/footer.php");?>
