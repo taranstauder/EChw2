@@ -8,6 +8,9 @@
 
 <?php include("includes/design-top.php");?>
 <?php include("includes/navigation.php");?>
+<?php function hey(){
+	echo "Hello World!";}
+	hey()?>
 
 <div class="container" id="main-content">
 	    
