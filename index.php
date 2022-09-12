@@ -8,7 +8,7 @@
 
 <?php include("includes/design-top.php");?>
 <?php include("includes/navigation.php");?>
-<?php hey();?>
+<?php hey(echo);?>
 
 <div class="container" id="main-content">
 	    
