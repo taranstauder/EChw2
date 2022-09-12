@@ -10,7 +10,6 @@
 {
 	echo hi welcome to my second homework;
 }?>
-<?php> hey();?>
 
 <?php include("includes/design-top.php");?>
 <?php include("includes/navigation.php");?>
