@@ -4,6 +4,9 @@
 	<meta name="description" content="" />
 	<meta name="keywords" content="" /> 
 <?php } ?>
+<?php function hey(){
+	echo Hello World;}?>
+
 
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 <style>
